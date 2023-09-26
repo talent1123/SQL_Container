@@ -299,7 +299,7 @@ LTRIM (s ,c) , RTRIM (s,c): 문자열 왼쪽 c문자열 제거 , 문자열 오�
 TRIM: 특정 문자를 제거 한다.   제거 문자를 입력하지 않으면 기본적으로 공백이 제거 된다.  리턴 값의 데이터타입은 VARCHAR2 이다.
 REPLACE(s,p,r): s에서 from 문자열의 각 문자를 to문자열의 각 문자로 변환한다.
 TRANSLATE (s,from,to): s에서 from 문자열의 각 문자를 to문자열의 각 문자로 리턴
-
+ 
 
  
   
